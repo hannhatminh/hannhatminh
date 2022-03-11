@@ -20,7 +20,6 @@ You can click the Preview link to take a look at your changes.
          ❤ ؄36・ BOX CHAT  ❤
     </pre>
     </p>
-    <table cellspacing="12"style="width:100%">
     <tr>
       <td><p style="color:green">&#10004;<a href="/">؄36・Cấy •</p></a></td>
       <td><p style="color:green">&#10004;<a href="./">؄36・Cá </p></a></td>
