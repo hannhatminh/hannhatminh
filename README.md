@@ -11,7 +11,6 @@ You can click the Preview link to take a look at your changes.
 <!doctype html>
     <html>
     <head>
-    <title>LEGEND</title>
     </head>
     <body>
     <b><big><pre>36AETEAM</pre></big></b>
