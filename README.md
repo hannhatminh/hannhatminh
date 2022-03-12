@@ -7,6 +7,7 @@
 <pre>
      ❤ ؄36・ BOX CHAT  ❤
 </pre>
+<img src="Ephoto360.com_1621cd246e4075.jpg">
 </p>
 <tr>
   <td><p style="color:green">&#10004;<a href="https://www.facebook.com/thaidakoz48">؄36・Cấy •</p></a></td>
